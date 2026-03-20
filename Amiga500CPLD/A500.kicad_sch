@@ -12151,7 +12151,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "47R"
 			(at 206.883 173.228 0)
 			(effects
 				(font
@@ -13704,7 +13704,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "47R"
 			(at 206.883 164.592 0)
 			(effects
 				(font
