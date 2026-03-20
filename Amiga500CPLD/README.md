@@ -11,7 +11,7 @@ This adaptor uses a CPLD to pass the RGB and sync signals from the Amiga 500 Den
 | Symbol     | Component                         |
 | ---------- | --------------------------------- |
 | C1 - C3    | 0.1uF 0603                        |
-| J1         | 2x20pin socket 2.54mm             |
+| J1         | 2x20pin 16.5mm tall socket 2.54mm |
 | JP1        | 2pin right angle header 2.54mm    |
 | J2         | 1pin right angle header 2.54mm    |
 | R1         | 1K 0603                           |
